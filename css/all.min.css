@@ -1,0 +1,509 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Playfair Display';
+    font-weight: bold;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+
+
+  }
+
+body{
+    background-color: #f7f2e7;
+  }
+
+  .nameee{
+position: absolute;
+width: 220px;
+height: 32px;
+left: 57px;
+top: 25px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #111010;
+
+  }
+  
+  
+  
+  .topnav{
+      height: 80px;
+      background-color: ;
+  }
+  .navright a {
+
+position: absolute;
+width: 66px;
+height: 32px;
+
+top: 24px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #111010;
+
+    
+  }
+  .navright a:hover{
+    color: rgb(210, 225, 235);
+    cursor: pointer;
+   
+  }
+ 
+
+  .topimg{
+    position: absolute;
+    z-index: 0;
+    top: 91px;
+    left: 55px;
+    height:650px;
+    background-color: #f0e8e8;
+  }
+  .topimg img{
+    position: absolute;
+    width: 1246px;
+    height: 641px;
+    left: 54px;
+    right: 54px;
+
+
+  }
+  .topimg1{
+    position: absolute;
+    width: 357px;
+    height: 430px;
+    left: 130px;
+    top: 163px;
+    z-index: 3;
+  }
+  .emprec{
+    position: absolute;
+    width: 343px;
+    height: 454px;
+    left: 181px;
+    top: 130px;
+    z-index: 2;
+    border: 4px solid rgb(247 234 206);
+    box-sizing: border-box;
+  }
+  .hey{
+    position: absolute;
+    width: 763px;
+    height: 101px;
+    left: 644px;
+    top: 163px;
+    
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 76px;
+    line-height: 101px;
+    letter-spacing: 0.025em;
+    
+    color: #111010;
+  }
+
+  .hey1{
+    position: absolute;
+    width: 488px;
+    height: 23px;
+    left: 644px;
+    top: 260px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: justify;
+    letter-spacing: 2px;
+    
+    color: #111010;
+    
+  }
+
+  .hey2{
+    position: absolute;
+    width: 534px;
+    height: 96px;
+    left: 644px;
+    top: 335px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: justify;
+    letter-spacing: 0.025em;
+    
+    color: #111010;
+  }
+
+  .hey3{
+    position: absolute;
+    width: 534px;
+    height: 48px;
+    left: 644px;
+    top: 423px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: justify;
+    letter-spacing: 0.025em;
+    
+    color: #111010;
+    
+  }
+
+  .mywork{
+    position: absolute;
+    width: 400px;
+    height: 107px;
+    left: 120px;
+    top: 838px;
+    
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 68px;
+    line-height: 107px;
+    /* identical to box height */
+    
+    letter-spacing: 0.02em;
+    
+    color: #111010;
+    
+  }
+  .ooo{
+    position: absolute;
+    width: 80px;
+    height: 107px;
+    left: 142px;
+    top: 1015px;
+    
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+    line-height: 107px;
+    /* identical to box height */
+    
+    letter-spacing: 0.02em;
+    
+    color: #111010;
+    
+  }
+  .mmm{
+    position: absolute;
+    width: 400px;
+    height: 53px;
+    left: 919px;
+    top: 1049px;
+    
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 53px;
+    letter-spacing: 0.02em;
+    
+    color: #111010;
+  }
+  .img3{
+    position:absolute;
+    
+    left: 142px;
+    top: 1076px;
+    
+  }
+  .img3 img{
+   width:98%;
+   height: 96%;
+  }
+  .img4{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 113px;
+    top: 1130px;
+    
+  }
+button a:hover{
+    text-transform: scale(00.6s);
+
+    cursor: pointer;
+    transform: scale(1.2);
+    
+    
+   
+    }
+    
+
+    .ooo1{
+        position: absolute;
+        width: 88px;
+        height: 107px;
+        left: 139px;
+        top: 2171px;
+        
+        font-family: Playfair Display;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 60px;
+        line-height: 107px;
+        /* identical to box height */
+        
+        letter-spacing: 0.02em;
+        
+        color: #111010;
+      }
+      .mmm1{
+        position: absolute;
+        width: 393px;
+        height: 53px;
+        left: 988px;
+        top: 2215px;
+        
+        font-family: Playfair Display;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        line-height: 53px;
+        letter-spacing: 0.02em;
+        
+        color: #111010;
+      }
+      .img9{
+        position: absolute;
+        width: 1161px;
+        height: 911px;
+        left: 139px;
+        top: 2278px;
+        
+        
+      }
+      .img9 img{
+       width:98%;
+       height: 96%;
+      }
+      .img8{
+        position: absolute;
+        width: 914px;
+        height: 536px;
+        left: 260px;
+        top: 2310px;
+        
+        
+      }
+    button a:hover{
+        
+        color: #FFFFFF;
+        cursor: pointer;
+        z-index: 1;
+        background-color: blueviolet;
+        }
+    .btt a{
+        position: absolute;
+        width: 357px;
+        height: 40px;
+        left: 585px;
+        top: 2156px;
+        
+        font-family: Playfair Display;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 40px;
+        /* identical to box height */
+        
+        text-align: center;
+        letter-spacing: 0.02em;
+        
+        color: #111010;
+        }
+        .cta img{
+          position: absolute;
+width: 1332px;
+height: 641px;
+left: 151px;
+    top: 2230px;
+
+        }
+        .cta img{
+          position: absolute;
+          width: 1246px;
+          height: 641px;
+          left: 154px;
+          right: 54px;
+      
+      
+        }
+        .cta1 h1{
+          position: absolute;
+width: 271px;
+height: 40px;
+left: 199px;
+top: 2284px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 40px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #111010;
+
+        }
+.cta1 h2{
+position: absolute;
+width: 355px;
+height: 85px;
+left: 211px;
+    top: 2341px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 60px;
+line-height: 80px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+        }
+.cta2 h1{
+position: absolute;
+width: 199px;
+height: 80px;
+left: 980px;
+top: 3485px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 40px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+}
+.cta2 h2{
+position: absolute;
+width: 294px;
+height: 85px;
+left: 980px;
+top: 3531px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 60px;
+line-height: 80px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+}
+.cta3{
+  position: absolute;
+  width: 870px;
+  height: 250px;
+  left: 362px;
+  top: 2467px;
+
+  background: rgba(0, 0, 0, 0.6);
+  
+}
+.cta3 h1{
+  position: absolute;
+width: 658px;
+height: 85px;
+left: 221px;
+top:30px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 67px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+}
+.linkedin{
+position: absolute;
+left: 34.97%;
+    right: 60.69%;
+    top: 2760px;
+bottom: 1.26%;
+
+background: #FFFFFF;
+}
+.behance{
+  position: absolute;
+  left: 47.33%;
+  right: 48.33%;
+  top: 2754px;
+bottom: 1.26%;
+
+}
+.location{
+position: absolute;
+left: 58.89%;
+right: 39.03%;
+top: 2764px;
+bottom: 1.34%;
+}
+.location h1{
+  position: absolute;
+  width: 203px;
+  height: 40px;
+  left: 45px;
+  top: 00px;
+  
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 40px;
+  /* identical to box height */
+  
+  letter-spacing: 0.02em;
+  
+  color: #FFFFFF;
+  
+}
+.mail{
+position: absolute;
+width: 20px;
+height: 16px;
+top: 3830px;
+left:760px;
+  bottom: 4.78%;
+    }

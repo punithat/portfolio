@@ -1,0 +1,179 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Playfair Display';
+    font-weight: bold;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+
+
+  }
+
+body{
+    background-color: #121212;
+  }
+
+  .nameee{
+position: absolute;
+width: 220px;
+height: 32px;
+left: 57px;
+top: 25px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+  }
+  
+  
+  
+  .topnav{
+      height: 80px;
+      background-color: #121212;
+  }
+  .navright a {
+
+position: absolute;
+width: 66px;
+height: 32px;
+
+top: 24px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+    
+  }
+  .resume{
+    position: absolute;
+    width: 1440px;
+height: 1435px;
+left: 0px;
+    top: 51px;
+  }
+
+  .cta img{
+    position: absolute;
+    width: 1332px;
+    height: 493px;
+    left: 54px;
+    right: 54px;
+    top: 1536px;
+
+  }
+  
+  
+.cta3{
+    position: absolute;
+    width: 870px;
+    height: 250px;
+    left: 255px;
+    top: 1618px;
+    
+    background: rgba(0, 0, 0, 0.6);
+}
+.cta3 h1{
+    position: absolute;
+    width: 658px;
+    height: 85px;
+    left: 221px;
+    top: 30px;
+    
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 67px;
+    letter-spacing: 0.02em;
+    
+    color: #FFFFFF;
+    
+    
+}
+.linkedin{
+    position: absolute;
+    left: 35.97%;
+    right: 60.69%;
+    top: 1919px;
+    bottom: 5.89%;
+    
+    background: #FFFFFF;
+    
+}
+.behance{
+    position: absolute;
+    left: 48.33%;
+    right: 48.33%;
+    top: 1919px;
+    bottom: 5.89%;
+    
+    background: #FFFFFF;
+
+}
+.location{
+    position: absolute;
+    left: 58.89%;
+    right: 39.03%;
+    top: 1919px;
+    bottom: 6.08%;
+    
+    background: #FFFFFF;
+}
+.location h1{
+position: absolute;
+width: 203px;
+height: 40px;
+left: 45px;
+top: 00px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+}
+.navright a:hover{
+  color: rgb(210, 225, 235);
+  cursor: pointer;
+ 
+}
+.mail{
+position: absolute;
+width: 20px;
+height: 16px;
+top: 1779px;
+left:776px;
+bottom: 4.78%;
+}
+button a:hover{
+  text-transform: scale(00.6s);
+
+  cursor: pointer;
+  transform: scale(1.2);
+  
+  
+ 
+  }
